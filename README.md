@@ -11,9 +11,9 @@
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/chmod.PNG)
    
    修改文件，加入如下代码：
-   /<property>
-   /<name>dfs.permissions /</name>
-   /<value>false/</value>
-   /</property>
+   \<property>
+   \<name>dfs.permissions \</name>
+   \<value>false\</value>
+   \</property>
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/permissions.PNG)
   
