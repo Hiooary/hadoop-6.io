@@ -35,10 +35,10 @@
    运行，可以看到 log.txt 的内容：</br>
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/log.PNG)</br>
      
-   4.在 HDFS 下下载文件，代码如图：</br>
+   4.在 HDFS 下递归删除文件，代码如图：</br>
      ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/code4.PNG)</br>
     
-   运行，可以看到 log.txt 的内容：</br>
+   运行，可以看到之前上传的文件已经不存在：</br>
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/delete.PNG)</br>
     
      
