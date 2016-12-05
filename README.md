@@ -26,8 +26,8 @@
    2.在 HDFS 下上传文件，代码如图：</br>
     ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/code2.PNG)</br>
 
-     在D盘下建一个 log.txt 文件用于上传，运行代码，可以在 hadoop 中看到代码已经上传：</br>
-     ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/java.PNG) </br>
+   在D盘下建一个 log.txt 文件用于上传，运行代码，可以在 hadoop 中看到代码已经上传：</br>
+   ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/java.PNG) </br>
      
    3.在 HDFS 下下载文件，代码如图：</br>
     ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/code3.PNG)</br>
