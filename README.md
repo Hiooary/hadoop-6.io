@@ -32,13 +32,13 @@
    3.在 HDFS 下下载文件，代码如图：</br>
     ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/code3.PNG)</br>
     
-    运行，可以看到 log.txt 的内容：</br>
+   运行，可以看到 log.txt 的内容：</br>
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/log.PNG)</br>
      
    4.在 HDFS 下下载文件，代码如图：</br>
      ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/code4.PNG)</br>
     
-    运行，可以看到 log.txt 的内容：</br>
+   运行，可以看到 log.txt 的内容：</br>
    ![图片](https://github.com/Hiooary/hadoop_6.io/blob/master/images/delete.PNG)</br>
     
      
